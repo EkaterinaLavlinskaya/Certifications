@@ -12,3 +12,4 @@
 [![Stepik](https://img.shields.io/badge/Stepik-Введение_SQL-43a047?style=flat-square&logo=stepik&logoColor=white)](https://stepik.org/cert/3147616)
 [![Stepik](https://img.shields.io/badge/Stepik-Deep_Learning_in_Finance-43a047?style=flat-square&logo=stepik&logoColor=white)](https://stepik.org/cert/3162258?lang=en)
 [![Stepik](https://img.shields.io/badge/Stepik-Интерактивный_SQL-43a047?style=flat-square&logo=stepik&logoColor=white)](https://stepik.org/cert/3173160)
+[![Stepik](https://img.shields.io/badge/Stepik-Поколение_Python-43a047?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/cert/3173618)
