@@ -13,3 +13,5 @@
 [![Stepik](https://img.shields.io/badge/Stepik-Deep_Learning_in_Finance-43a047?style=flat-square&logo=stepik&logoColor=white)](https://stepik.org/cert/3162258?lang=en)
 [![Stepik](https://img.shields.io/badge/Stepik-Интерактивный_SQL-43a047?style=flat-square&logo=stepik&logoColor=white)](https://stepik.org/cert/3173160)
 [![Stepik](https://img.shields.io/badge/Stepik-Поколение_Python-43a047?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/cert/3173618)
+#### OpenCV University
+[![OpenCV](https://img.shields.io/badge/OpenCV-Certified-5C3EE8?logo=opencv&logoColor=white&style=flat-square)](https://courses.opencv.org/certificates/c8937b62b7b14ffb8a54597db8636bd6)
