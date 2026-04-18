@@ -14,6 +14,8 @@
 [![Stepik](https://img.shields.io/badge/Stepik-Интерактивный_SQL-43a047?style=flat-square&logo=stepik&logoColor=white)](https://stepik.org/cert/3173160)
 [![Stepik](https://img.shields.io/badge/Stepik-Поколение_Python-43a047?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/cert/3173618)
 [![Stepik Certified](https://img.shields.io/badge/Stepik-Теория_вероятностей-4CAF50?style=for-the-badge&logo=stepik&logoColor=white&labelColor=555555)](https://stepik.org/cert/3211125)
+[![Stepik Certified](https://img.shields.io/badge/Stepik-Математический_анализ-4CAF50?style=for-the-badge&logo=stepik&logoColor=white&labelColor=555555)](https://stepik.org/cert/3219877)
+
 #### OpenCV University
 [![OpenCV](https://img.shields.io/badge/OpenCV-Certified-5C3EE8?logo=opencv&logoColor=white&style=flat-square)](https://courses.opencv.org/certificates/c8937b62b7b14ffb8a54597db8636bd6)
 [![PyTorch Certificate](https://img.shields.io/badge/PyTorch-Certificate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://courses.opencv.org/certificates/0892fdad6a6b44b68f69eeab9f07bbca)
