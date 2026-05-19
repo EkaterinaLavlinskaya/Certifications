@@ -19,3 +19,5 @@
 #### OpenCV University
 [![OpenCV](https://img.shields.io/badge/OpenCV-Certified-5C3EE8?logo=opencv&logoColor=white&style=flat-square)](https://courses.opencv.org/certificates/c8937b62b7b14ffb8a54597db8636bd6)
 [![PyTorch Certificate](https://img.shields.io/badge/PyTorch-Certificate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://courses.opencv.org/certificates/0892fdad6a6b44b68f69eeab9f07bbca)
+#### Karpov.Course
+[![Karpov.Courses Certified](https://img.shields.io/badge/Karpov.Courses-Математика_для_анализа_данных-2C3E50?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0xIDE1aC0ydi0yaDJ2MnptMC00aC0yVjdoMnY2eiIvPjwvc3ZnPg==&logoColor=white&labelColor=555555)](https://lab.karpov.courses/certificate/80a92282-2197-44be-a3cb-29cdfb9fd640/)
