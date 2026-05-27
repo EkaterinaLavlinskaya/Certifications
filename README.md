@@ -17,6 +17,7 @@
 [![Stepik Certified](https://img.shields.io/badge/Stepik-Математический_анализ-4CAF50?style=for-the-badge&logo=stepik&logoColor=white&labelColor=555555)](https://stepik.org/cert/3219877)
 [![Stepik Certified](https://img.shields.io/badge/Stepik-Программирование_на_C++-4CAF50?style=for-the-badge&logo=stepik&logoColor=white&labelColor=555555)](https://stepik.org/cert/3250469)
 [![Stepik Certified](https://img.shields.io/badge/Stepik-Анализ_данных_в_R-4CAF50?style=for-the-badge&logo=stepik&logoColor=white&labelColor=555555)](https://stepik.org/cert/3261615)
+[![Stepik Certified](https://img.shields.io/badge/Stepik-Математическая_статистика-4CAF50?style=for-the-badge&logo=stepik&logoColor=white&labelColor=555555)](https://stepik.org/cert/3262838)
 
 #### OpenCV University
 [![OpenCV](https://img.shields.io/badge/OpenCV-Certified-5C3EE8?logo=opencv&logoColor=white&style=flat-square)](https://courses.opencv.org/certificates/c8937b62b7b14ffb8a54597db8636bd6)
