@@ -7,6 +7,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Feature_Engineering-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/ekaterina1234567890/feature-engineering)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Intro_to_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/ekaterina1234567890/intro-to-machine-learning)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Intermediate_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/ekaterina1234567890/intermediate-machine-learning)
+[![Stepik](https://img.shields.io/badge/Stepik-Введение%20в%20Data%20Science%20и%20ML-58a6ff?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/cert/3345594)
 
 #### Stepik
 [![Stepik](https://img.shields.io/badge/Stepik-Введение_SQL-43a047?style=flat-square&logo=stepik&logoColor=white)](https://stepik.org/cert/3147616)
